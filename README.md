@@ -22,13 +22,14 @@ O objetivo do desafio foi criar um relatório interativo e mais elaborado, utili
 
 A primeira página apresenta uma visão geral das vendas, com os principais indicadores e diferentes formas de análise por período, segmento, produto e país.
 
-![Sales Report](images/1print.png)
+
+![Sales Report](1print.png)
 
 ## Página 2 - Report de Lucro Detalhado
 
 A segunda página apresenta uma análise mais detalhada do lucro, permitindo visualizar os dados por ano, país, produto, segmento e trimestre.
 
-![Report de Lucro Detalhado](images/2print.png)
+![Report de Lucro Detalhado](2print.png)
 
 ## Funcionalidades
 
